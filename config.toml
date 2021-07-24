@@ -68,7 +68,8 @@ paginate = 5
     "500px" = ""
 
 [params.copy] # Copyright
-    copy = "CATI - Centro Acadêmico de Tecnologia e Inovação" # Empty for default content
+    copy = "CATI - Centro de Aplicação em
+Tecnologia e Inovação" # Empty for default content
 
 [privacy]
     [privacy.googleAnalytics]
